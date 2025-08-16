@@ -240,8 +240,7 @@ MIT License - Feel free to use, modify, and distribute
 
 - 📧 **Email**: [pranjalverma975@gmail.com](mailto:pranjalverma975@gmail.com)
 - 🔗 **GitHub**: [@pran-ekaiva006](https://github.com/pran-ekaiva006)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/pranjal-verma)
-- 🌐 **Portfolio**: [View my work](https://pranjal-portfolio.vercel.app)
+- 🌐 **Portfolio**: [View my work](https://portfolio-d26n.vercel.app/)
 
 ---
 
